@@ -30,9 +30,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python scripts/generate_stencils.py \
-  --input final_expressions.tex \
-  --output discretization.tex
+python scripts/generate_stencils.py --input final_expressions.tex --output discretization.tex
 ```
 
 -   `--input` should point to your local copy of `final_expressions.tex`.
