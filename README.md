@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ```bash
 python scripts/generate_stencils.py \
-  --input /path/to/final_expressions.tex \
+  --input final_expressions.tex \
   --output discretization.tex
 ```
 
