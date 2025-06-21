@@ -1,8 +1,19 @@
-{
-  "folders": [
+{  "folders": [
     {
       "path": ".",
       "name": "warp-discretization"
+    },
+    {
+      "name": "Warp LQG Midisuperspace",
+      "path": "../warp-lqg-midisuperspace"
+    },
+    {
+      "name": "Warp Core - Main",
+      "path": "../warp-core"
+    },
+    {
+      "name": "Warp Solver Equations",
+      "path": "../warp-solver-equations"
     }
   ],
   "extensions": {
