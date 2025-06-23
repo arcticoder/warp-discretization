@@ -180,5 +180,3 @@ Contributions welcome! Areas of interest:
 3. **Warp Drive Physics**: Alcubierre, M., Phys. Rev. D 53, 3571 (1994)
 
 ---
-
-⭐ **Star this repository** if you find it useful for your numerical simulations!
