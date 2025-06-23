@@ -8,15 +8,15 @@
 
 This repository provides computational tools to generate finite-difference stencils and truncation-error expansions for spatial derivatives in warp-bubble spacetime expressions, enabling numerical simulation of exotic spacetime geometries.
 
-## 🚀 Key Features
+## Key Features
 
-- **🔢 Finite-Difference Stencils**: Automated generation of central difference formulas (2nd, 4th, 6th order)
-- **📐 Error Analysis**: Complete Taylor-series truncation error characterization
-- **📄 LaTeX Output**: Publication-ready discretization documentation
-- **⚡ SymPy Integration**: Symbolic mathematics for exact coefficient computation
-- **🔗 Pipeline Ready**: Integrates seamlessly with upstream warp-bubble repositories
+- **Finite-Difference Stencils**: Automated generation of central difference formulas (2nd, 4th, 6th order)
+- **Error Analysis**: Complete Taylor-series truncation error characterization
+- **LaTeX Output**: Publication-ready discretization documentation
+- **SymPy Integration**: Symbolic mathematics for exact coefficient computation
+- **Pipeline Ready**: Integrates seamlessly with upstream warp-bubble repositories
 
-## 🧮 Mathematical Framework
+## Mathematical Framework
 
 The tool processes closed-form warp-bubble expressions to generate numerical discretization schemes:
 
