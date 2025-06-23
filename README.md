@@ -38,7 +38,7 @@ The tool processes closed-form warp-bubble expressions to generate numerical dis
 - **6th Order**: O(h⁶) accuracy, 7-point stencils
 - **Custom**: User-configurable stencil orders and grid arrangements
 
-## 🔧 Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 ```bash
@@ -58,7 +58,7 @@ cd warp-discretization
 pip install -r requirements.txt
 ```
 
-## 🚀 Usage Guide
+## Usage Guide
 
 ### Basic Stencil Generation
 ```bash
@@ -84,7 +84,7 @@ python scripts/generate_stencils.py --input final_expressions.tex --export-indiv
 python scripts/generate_stencils.py --input final_expressions.tex --generate-tests
 ```
 
-## 📁 Output Structure
+## Output Structure
 
 ```
 discretization.tex          # Main LaTeX document with all stencils
@@ -158,14 +158,14 @@ Truncation error bounds for each stencil:
 - **Boundary handling**: One-sided and modified stencils near boundaries
 - **Stability analysis**: CFL conditions for time-stepping schemes
 
-## 🎯 Applications
+## Applications
 
 - **Numerical Relativity**: Spacetime evolution simulations
 - **Warp Drive Research**: Exotic matter field dynamics
 - **Computational Physics**: General PDE discretization
 - **Algorithm Development**: Finite-difference method validation
 
-## 🤝 Contributing
+## Contributing
 
 Contributions welcome! Areas of interest:
 - Higher-order stencil implementations
@@ -173,7 +173,7 @@ Contributions welcome! Areas of interest:
 - GPU acceleration for large-scale problems
 - Integration with finite element methods
 
-## 📚 References
+## References
 
 1. **Finite Difference Methods**: LeVeque, R. J., "Finite Difference Methods for ODEs and PDEs"
 2. **Numerical Relativity**: Baumgarte & Shapiro, "Numerical Relativity: Solving Einstein's Equations on the Computer"
